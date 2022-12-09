@@ -97,7 +97,7 @@ local Tab = Window:MakeTab({
         Name = "ON",
         Default = false,
         Callback = function(Value)
-             loadstring(game:HttpGet("https://pastebin.com/raw/G0MT3Cwc"))()
+             loadstring(game:HttpGet("https://pastebin.com/raw/ibP7RHrN"))()
         end    
     })
 
