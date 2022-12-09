@@ -43,7 +43,7 @@ local Tab = Window:MakeTab({
     Tab:AddButton({
         Name = "(Risky) Start Dupe!",
         Callback = function()
-            loadstring(game:HttpGet("https://pastebin.com/raw/G0MT3Cwc"))()
+            loadstring(game:HttpGet("https://pastebin.com/raw/ibP7RHrN"))()
           end    
     })
     
